@@ -20,7 +20,7 @@ This project implements and deploys a systematic intraday trading strategy on a 
 
 ## Portfolio Composition
 
-- European stocks (e.g. LVMH, TotalEnergies)
+- European stocks
 - Various thematic and regional ETFs
 
 ## To Do
