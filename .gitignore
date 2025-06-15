@@ -1,0 +1,7 @@
+# .gitignore
+config
+*.env
+__pycache__/
+*.pyc
+data/positions_pea/positions.csv
+data/intraday_history
